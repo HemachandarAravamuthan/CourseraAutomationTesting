@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-11T09:59:09 IST" name="Suite" finished-at="2024-11-11T10:01:41 IST" duration-ms="151736">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_CourseSearchingTest.testSearchFunction()[pri:0, instance:testCases.TC001_CourseSearchingTest@a3d9978]" name="testSearchFunction" class="testCases.TC001_CourseSearchingTest"/>
+        <method signature="TC002_CourseCountTest.testFilterFunction()[pri:0, instance:testCases.TC002_CourseCountTest@61544ae6]" name="testFilterFunction" class="testCases.TC002_CourseCountTest"/>
+        <method signature="TC003_ErrorMessageTest.testErrorMessage()[pri:0, instance:testCases.TC003_ErrorMessageTest@4b41dd5c]" name="testErrorMessage" class="testCases.TC003_ErrorMessageTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC001_CourseSearchingTest.testSearchFunction()[pri:0, instance:testCases.TC001_CourseSearchingTest@a3d9978]" name="testSearchFunction" class="testCases.TC001_CourseSearchingTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC002_CourseCountTest.testFilterFunction()[pri:0, instance:testCases.TC002_CourseCountTest@61544ae6]" name="testFilterFunction" class="testCases.TC002_CourseCountTest"/>
+        <method signature="TC003_ErrorMessageTest.testErrorMessage()[pri:0, instance:testCases.TC003_ErrorMessageTest@4b41dd5c]" name="testErrorMessage" class="testCases.TC003_ErrorMessageTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-11-11T09:59:09 IST" name="Test" finished-at="2024-11-11T10:01:41 IST" duration-ms="151736">
+      <class name="testCases.TC002_CourseCountTest">
+        <test-method is-config="true" signature="fireUp(java.lang.String)[pri:0, instance:testCases.TC002_CourseCountTest@61544ae6]" started-at="2024-11-11T09:59:51 IST" name="fireUp" finished-at="2024-11-11T10:00:20 IST" duration-ms="28936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fireUp -->
+        <test-method signature="testFilterFunction()[pri:0, instance:testCases.TC002_CourseCountTest@61544ae6]" started-at="2024-11-11T10:00:20 IST" name="testFilterFunction" finished-at="2024-11-11T10:00:56 IST" duration-ms="35849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterFunction -->
+        <test-method is-config="true" signature="coolDown()[pri:0, instance:testCases.TC002_CourseCountTest@61544ae6]" started-at="2024-11-11T10:00:56 IST" name="coolDown" finished-at="2024-11-11T10:00:58 IST" duration-ms="2615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coolDown -->
+      </class> <!-- testCases.TC002_CourseCountTest -->
+      <class name="testCases.TC001_CourseSearchingTest">
+        <test-method is-config="true" signature="fireUp(java.lang.String)[pri:0, instance:testCases.TC001_CourseSearchingTest@a3d9978]" started-at="2024-11-11T09:59:09 IST" name="fireUp" finished-at="2024-11-11T09:59:38 IST" duration-ms="28868" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fireUp -->
+        <test-method signature="testSearchFunction()[pri:0, instance:testCases.TC001_CourseSearchingTest@a3d9978]" started-at="2024-11-11T09:59:38 IST" name="testSearchFunction" finished-at="2024-11-11T09:59:49 IST" duration-ms="10904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunction -->
+        <test-method is-config="true" signature="coolDown()[pri:0, instance:testCases.TC001_CourseSearchingTest@a3d9978]" started-at="2024-11-11T09:59:49 IST" name="coolDown" finished-at="2024-11-11T09:59:51 IST" duration-ms="1850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coolDown -->
+      </class> <!-- testCases.TC001_CourseSearchingTest -->
+      <class name="testCases.TC003_ErrorMessageTest">
+        <test-method is-config="true" signature="fireUp(java.lang.String)[pri:0, instance:testCases.TC003_ErrorMessageTest@4b41dd5c]" started-at="2024-11-11T10:00:58 IST" name="fireUp" finished-at="2024-11-11T10:01:24 IST" duration-ms="25695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fireUp -->
+        <test-method signature="testErrorMessage()[pri:0, instance:testCases.TC003_ErrorMessageTest@4b41dd5c]" started-at="2024-11-11T10:01:24 IST" name="testErrorMessage" finished-at="2024-11-11T10:01:39 IST" duration-ms="14703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testErrorMessage -->
+        <test-method is-config="true" signature="coolDown()[pri:0, instance:testCases.TC003_ErrorMessageTest@4b41dd5c]" started-at="2024-11-11T10:01:39 IST" name="coolDown" finished-at="2024-11-11T10:01:41 IST" duration-ms="2069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coolDown -->
+      </class> <!-- testCases.TC003_ErrorMessageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

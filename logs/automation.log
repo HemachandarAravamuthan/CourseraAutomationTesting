@@ -1,0 +1,135 @@
+09:54:09.793 [main] DEBUG - suiteXmlPath: "C:\Users\2264745\eclipse-workspace\hackathon\hackathon\testng.xml"
+09:54:43.248 [main] INFO  - ****** Starting TC001_CourseSearchingTest *****
+09:54:48.633 [main] INFO  - Searched Web development
+09:54:49.898 [main] INFO  - Applied language filter
+09:54:50.497 [main] INFO  - Applied level filter
+09:54:53.643 [main] DEBUG - Save core properties part
+09:54:53.643 [main] DEBUG - Save content types part
+09:54:53.748 [main] DEBUG - Save package relationships
+09:54:53.756 [main] DEBUG - Save part 'docProps/app.xml'
+09:54:53.761 [main] DEBUG - Save part 'docProps/core.xml'
+09:54:53.771 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:54:53.771 [main] DEBUG - Save part 'xl/styles.xml'
+09:54:53.772 [main] DEBUG - Save part 'xl/workbook.xml'
+09:54:53.773 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:54:53.776 [main] DEBUG - Save content types part
+09:54:53.778 [main] DEBUG - Save package relationships
+09:54:53.780 [main] DEBUG - Save part 'docProps/app.xml'
+09:54:53.780 [main] DEBUG - Save part 'docProps/core.xml'
+09:54:53.781 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:54:53.781 [main] DEBUG - Save part 'xl/styles.xml'
+09:54:53.781 [main] DEBUG - Save part 'xl/workbook.xml'
+09:54:53.783 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:54:53.784 [main] INFO  - Written output in the excel file
+09:54:53.795 [main] INFO  - ****** Completed TC001_CourseSearchingTest *****
+09:55:21.148 [main] INFO  - ****** Starting TC002_CourseCountTest *****
+09:55:27.016 [main] INFO  - Searched Web development
+09:55:27.594 [main] DEBUG - Save core properties part
+09:55:27.594 [main] DEBUG - Save content types part
+09:55:27.597 [main] DEBUG - Save package relationships
+09:55:27.599 [main] DEBUG - Save part 'docProps/app.xml'
+09:55:27.600 [main] DEBUG - Save part 'docProps/core.xml'
+09:55:27.603 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:55:27.603 [main] DEBUG - Save part 'xl/styles.xml'
+09:55:27.603 [main] DEBUG - Save part 'xl/workbook.xml'
+09:55:27.606 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:55:27.607 [main] DEBUG - Save content types part
+09:55:27.609 [main] DEBUG - Save package relationships
+09:55:27.610 [main] DEBUG - Save part 'docProps/app.xml'
+09:55:27.610 [main] DEBUG - Save part 'docProps/core.xml'
+09:55:27.612 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:55:27.612 [main] DEBUG - Save part 'xl/styles.xml'
+09:55:27.613 [main] DEBUG - Save part 'xl/workbook.xml'
+09:55:27.615 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:55:27.615 [main] INFO  - Written level wise count in the excel file
+09:55:28.684 [main] DEBUG - Save core properties part
+09:55:28.684 [main] DEBUG - Save content types part
+09:55:28.686 [main] DEBUG - Save package relationships
+09:55:28.686 [main] DEBUG - Save part 'docProps/app.xml'
+09:55:28.688 [main] DEBUG - Save part 'docProps/core.xml'
+09:55:28.690 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:55:28.690 [main] DEBUG - Save part 'xl/styles.xml'
+09:55:28.690 [main] DEBUG - Save part 'xl/workbook.xml'
+09:55:28.692 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:55:28.692 [main] DEBUG - Save content types part
+09:55:28.692 [main] DEBUG - Save package relationships
+09:55:28.695 [main] DEBUG - Save part 'docProps/app.xml'
+09:55:28.695 [main] DEBUG - Save part 'docProps/core.xml'
+09:55:28.696 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:55:28.696 [main] DEBUG - Save part 'xl/styles.xml'
+09:55:28.696 [main] DEBUG - Save part 'xl/workbook.xml'
+09:55:28.696 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:55:28.700 [main] INFO  - Written language wise in the excel file
+09:55:28.700 [main] INFO  - ****** Completed TC002_CourseCountTest *****
+09:55:56.625 [main] INFO  - ****** Starting TC003_ErrorMessageTest *****
+09:56:13.668 [main] INFO  - Navigated to enterprise page
+09:59:09.084 [main] DEBUG - suiteXmlPath: "C:\Users\2264745\eclipse-workspace\hackathon\hackathon\testng.xml"
+09:59:13.748 [main] ERROR - TC003_ErrorMessageTest Failed
+09:59:13.748 [main] DEBUG - Debug logs
+09:59:38.470 [main] INFO  - ****** Starting TC001_CourseSearchingTest *****
+09:59:44.041 [main] INFO  - Searched Web development
+09:59:44.911 [main] INFO  - Applied language filter
+09:59:45.537 [main] INFO  - Applied level filter
+09:59:49.201 [main] DEBUG - Save core properties part
+09:59:49.201 [main] DEBUG - Save content types part
+09:59:49.313 [main] DEBUG - Save package relationships
+09:59:49.322 [main] DEBUG - Save part 'docProps/app.xml'
+09:59:49.328 [main] DEBUG - Save part 'docProps/core.xml'
+09:59:49.340 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:59:49.340 [main] DEBUG - Save part 'xl/styles.xml'
+09:59:49.340 [main] DEBUG - Save part 'xl/workbook.xml'
+09:59:49.343 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:59:49.346 [main] DEBUG - Save content types part
+09:59:49.348 [main] DEBUG - Save package relationships
+09:59:49.350 [main] DEBUG - Save part 'docProps/app.xml'
+09:59:49.351 [main] DEBUG - Save part 'docProps/core.xml'
+09:59:49.352 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+09:59:49.353 [main] DEBUG - Save part 'xl/styles.xml'
+09:59:49.353 [main] DEBUG - Save part 'xl/workbook.xml'
+09:59:49.357 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+09:59:49.358 [main] INFO  - Written output in the excel file
+09:59:49.371 [main] INFO  - ****** Completed TC001_CourseSearchingTest *****
+10:00:20.178 [main] INFO  - ****** Starting TC002_CourseCountTest *****
+10:00:25.062 [main] INFO  - Searched Web development
+10:00:55.193 [main] DEBUG - Save core properties part
+10:00:55.193 [main] DEBUG - Save content types part
+10:00:55.196 [main] DEBUG - Save package relationships
+10:00:55.197 [main] DEBUG - Save part 'docProps/app.xml'
+10:00:55.198 [main] DEBUG - Save part 'docProps/core.xml'
+10:00:55.199 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:00:55.199 [main] DEBUG - Save part 'xl/styles.xml'
+10:00:55.201 [main] DEBUG - Save part 'xl/workbook.xml'
+10:00:55.202 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:00:55.203 [main] DEBUG - Save content types part
+10:00:55.206 [main] DEBUG - Save package relationships
+10:00:55.207 [main] DEBUG - Save part 'docProps/app.xml'
+10:00:55.207 [main] DEBUG - Save part 'docProps/core.xml'
+10:00:55.209 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:00:55.209 [main] DEBUG - Save part 'xl/styles.xml'
+10:00:55.210 [main] DEBUG - Save part 'xl/workbook.xml'
+10:00:55.211 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:00:55.212 [main] INFO  - Written level wise count in the excel file
+10:00:55.996 [main] DEBUG - Save core properties part
+10:00:55.997 [main] DEBUG - Save content types part
+10:00:55.999 [main] DEBUG - Save package relationships
+10:00:56.009 [main] DEBUG - Save part 'docProps/app.xml'
+10:00:56.010 [main] DEBUG - Save part 'docProps/core.xml'
+10:00:56.013 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:00:56.013 [main] DEBUG - Save part 'xl/styles.xml'
+10:00:56.013 [main] DEBUG - Save part 'xl/workbook.xml'
+10:00:56.016 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:00:56.016 [main] DEBUG - Save content types part
+10:00:56.017 [main] DEBUG - Save package relationships
+10:00:56.018 [main] DEBUG - Save part 'docProps/app.xml'
+10:00:56.018 [main] DEBUG - Save part 'docProps/core.xml'
+10:00:56.021 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:00:56.021 [main] DEBUG - Save part 'xl/styles.xml'
+10:00:56.021 [main] DEBUG - Save part 'xl/workbook.xml'
+10:00:56.023 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:00:56.024 [main] INFO  - Written language wise in the excel file
+10:00:56.026 [main] INFO  - ****** Completed TC002_CourseCountTest *****
+10:01:24.339 [main] INFO  - ****** Starting TC003_ErrorMessageTest *****
+10:01:38.221 [main] INFO  - Navigated to enterprise page
+10:01:38.993 [main] INFO  - Invalid email input given
+10:01:39.042 [main] INFO  - Got error message
+10:01:39.042 [main] INFO  - ****** Completed TC003_ErrorMessageTest *****

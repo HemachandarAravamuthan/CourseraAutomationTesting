@@ -1,0 +1,2 @@
+cd C:\Users\2264745\eclipse-workspace\hackathon\hackathon
+mvn test
